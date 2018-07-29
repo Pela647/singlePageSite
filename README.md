@@ -1,4 +1,4 @@
-# singlePageSite
-Single Page Demo Website
+# Single Page Site Demo
+
 
 [https://pela647.github.io/singlePageSite/]
